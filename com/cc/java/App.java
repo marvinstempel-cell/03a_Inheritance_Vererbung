@@ -22,6 +22,8 @@ public class App {
         output(cat2.getStringAttributes("#color"));
 
         output(cat2.getAge()); 
+        output(cat2.getAge()); 
+
 
     }
 
